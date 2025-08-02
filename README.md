@@ -7,7 +7,10 @@ make a folder assets then in your project. Make an images folder in assets. then
 
 ## 📸 App Preview
 
-![App Screenshot](https://raw.githubusercontent.com/abdlsmd/Flutter-Dice-Roller-App/main/image%20%281%(1).jpeg)
+![App Screenshot](https://raw.githubusercontent.com/abdlsmd/Flutter-Dice-Roller-App/main/image%20(1).jpeg)
+![App Screenshot](https://raw.githubusercontent.com/abdlsmd/Flutter-Dice-Roller-App/main/image%20(2).jpeg)
+![App Screenshot](https://raw.githubusercontent.com/abdlsmd/Flutter-Dice-Roller-App/main/image%20(3).jpeg)
+
 
 
 
@@ -24,6 +27,7 @@ A few resources to get you started if this is your first Flutter project:
 For help getting started with Flutter development, view the
 [online documentation](https://docs.flutter.dev/), which offers tutorials,
 samples, guidance on mobile development, and a full API reference.
+
 
 
 
