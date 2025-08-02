@@ -6,18 +6,11 @@ A new Flutter project.
 make a folder assets then in your project. Make an images folder in assets. then upload dice images in images folder. images are given in project.
 
 ## 📸 App Preview
-
-## 📸 App Preview
-
 <p align="center">
-  <img src="[...](https://github.com/abdlsmd/Flutter-Dice-Roller-App/blob/main/image%20(1).jpeg)" width="250"/>
-  <img src="[...](https://github.com/abdlsmd/Flutter-Dice-Roller-App/blob/main/image%20(2).jpeg)" width="250"/>
-  <img src="[...](https://github.com/abdlsmd/Flutter-Dice-Roller-App/blob/main/image%20(3).jpeg)" width="250"/>
+  <img src="https://raw.githubusercontent.com/abdlsmd/Flutter-Dice-Roller-App/main/image%20(1).jpeg" width="250"/>
+  <img src="https://raw.githubusercontent.com/abdlsmd/Flutter-Dice-Roller-App/main/image%20(2).jpeg" width="250"/>
+  <img src="https://raw.githubusercontent.com/abdlsmd/Flutter-Dice-Roller-App/main/image%20(3).jpeg" width="250"/>
 </p>
-
-
-
-
 
 
 ## Getting Started
@@ -32,6 +25,7 @@ A few resources to get you started if this is your first Flutter project:
 For help getting started with Flutter development, view the
 [online documentation](https://docs.flutter.dev/), which offers tutorials,
 samples, guidance on mobile development, and a full API reference.
+
 
 
 
