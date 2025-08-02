@@ -5,6 +5,11 @@ A new Flutter project.
 ## To add images
 make a folder assets then in your project. Make an images folder in assets. then upload dice images in images folder. images are given in project.
 
+## 📸 App Preview
+
+![App Screenshot]()
+
+
 ## Getting Started
 
 This project is a starting point for a Flutter application.
@@ -17,5 +22,6 @@ A few resources to get you started if this is your first Flutter project:
 For help getting started with Flutter development, view the
 [online documentation](https://docs.flutter.dev/), which offers tutorials,
 samples, guidance on mobile development, and a full API reference.
+
 
 
