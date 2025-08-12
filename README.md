@@ -2,6 +2,13 @@
 
 A new Flutter project.
 
+## 📸 App Preview
+<p align="center">
+  <img src="https://github.com/abdlsmd/Flutter-Dice-Roller-App/blob/main/image%20(1).jpeg" width="250"/>
+  <img src="https://github.com/abdlsmd/Flutter-Dice-Roller-App/blob/main/image%20(2).jpeg" width="250"/>
+  <img src="https://github.com/abdlsmd/Flutter-Dice-Roller-App/blob/main/image%20(3).jpeg" width="250"/>
+</p>
+
 ## Getting Started
 
 This project is a starting point for a Flutter application.
